@@ -1,4 +1,5 @@
-/*Making the text in tag p red*/
+/*Making the text in tag p red and background white*/
 p {
 	color: #ff0000;
+	background: #ffffff;
 }
